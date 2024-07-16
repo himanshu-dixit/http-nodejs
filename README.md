@@ -9,7 +9,7 @@ tags:
 
 # HTTP Module Example
 
-This example starts an [HTTP Module](https://nodejs.org/api/http.html) server.sddsdsdsdssd
+This example starts an [HTTP Module](https://nodejs.org/api/http.html) server.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ZweBXA)
 
