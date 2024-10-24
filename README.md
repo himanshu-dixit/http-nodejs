@@ -16,7 +16,7 @@ This example starts an [HTTP Module](https://nodejs.org/api/http.html) ..
 ## 💁‍♀️ How to use
 
 - Install dependencies `yarn`
-- Connect to your Railway project `railway link`
+- Connect to your Railway project `railway link`d
 - Start the development server `railway run yarn start`
 
 ## 📝 Notes
